@@ -7,7 +7,7 @@ Via Makefile
 ```bash
 make
 ``` 
-make sure to have the CSFML lib
+make sure to have the CSFML lib !
 
 # Description
 
